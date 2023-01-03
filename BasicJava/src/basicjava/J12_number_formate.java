@@ -8,7 +8,7 @@ public class J12_number_formate {
        String result = per.format(0.2);
        System.out.println(result);
 
-       NumberFormat currency =  NumberFormat.getCurrencyInstance();//get currency formate
+       NumberFormat currency =  NumberFormat.getCurrencyInstance();//get currenct formate
        String result1 = currency.format(14124.2311);
        System.out.println(result1);
     }
