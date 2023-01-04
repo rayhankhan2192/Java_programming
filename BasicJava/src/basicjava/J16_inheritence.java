@@ -1,7 +1,7 @@
 package basicjava;
 
 public class J16_inheritence extends J16_Class_1 {
-    //extends J16_Class_1 means access all public or procted variable from this class
+    //extends J16_Class_1 means access all public or protected variable from this class
     public int classes;
 
     public J16_inheritence(String name, int age, int classes) {
