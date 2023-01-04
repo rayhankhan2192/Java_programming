@@ -15,3 +15,4 @@ public class J16_Class_1 {
         System.out.println("\nMy name is " + this.name + ". I am " + this.age + " years old.");
     }
 }
+
