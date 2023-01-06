@@ -32,3 +32,4 @@ public class String_5 {
         System.out.println("Length: "+str1.length());
     }
 }
+
