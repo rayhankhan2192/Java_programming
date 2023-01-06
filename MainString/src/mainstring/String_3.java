@@ -32,7 +32,6 @@ public class String_3 {
         sb.append(" java is my favourite language");
         System.out.println(sb);
         System.out.println(sb.capacity());
-        
     }
     
 }
