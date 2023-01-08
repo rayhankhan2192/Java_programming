@@ -1,4 +1,4 @@
-//67. Add Binary
+//67. Add Binary binary sum
 package mainjava;
 
 import java.util.Scanner;
